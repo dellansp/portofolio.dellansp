@@ -8,11 +8,11 @@ baseurl: "/portofolio.dellansp" # the subpath of your site, e.g. /blog
 url: "https://dellansp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
+
 # Author Settings
-author: Della Novita S P # add your name
-author-img: dellansp.png # add your photo
-about-author: Lulusan Informatika dengan 3 tahun pengalaman kerja di bidang IT, memiliki keahlian dalam komunikasi, pengolahan data, Internet of Things (IoT), 
-dan Quality Assurance. # add description
+author: David Freeman # add your name
+author-img: david-freeman.jpg # add your photo
+about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
@@ -31,8 +31,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
-
-paginate: 8
-paginate_path: "/page/:num"
-
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
