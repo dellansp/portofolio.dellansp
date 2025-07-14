@@ -2,7 +2,7 @@
 layout: post
 title: IOT AND RESEARCH PROJECT
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: IOT.png # Add image post (optional)
+img: GIOT.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
