@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best Organizer Software
+title: IOT & INNOVATION PROJECT
 date: 2025-05-04 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: innovation.png # Add image post (optional)
