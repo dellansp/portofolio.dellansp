@@ -2,7 +2,7 @@
 layout: post
 title: IOT AND RESEARCH PROJECT
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: INNOVATION.png # Add image post (optional)
+img: innovation.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [IOT , IT RESEARCH]
 ---
