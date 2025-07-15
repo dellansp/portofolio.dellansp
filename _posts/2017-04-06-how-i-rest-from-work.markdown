@@ -10,20 +10,14 @@ Saya adalah seorang IT Research Enthusiast, dengan minat khusus dalam pengembang
 
 Minat ini semakin berkembang ketika saya melanjutkan studi di jurusan Informatika. Selama kuliah, saya aktif dalam organisasi mahasiswa yang fokus pada riset, inovasi, robotika, dan kewirausahaan teknologi. Keterlibatan ini memperluas pengetahuan saya terhadap mikrokontroler seperti Arduino, ESP8266, dan berbagai modul sensor, sekaligus mengasah kemampuan saya dalam merancang sistem IoT yang terintegrasi.
 
-💡 SMOKPOLISA – Sistem Monitoring Kebocoran Pipa Landfill Gas pada PLTSa Berbasis IoT
+**💡 SMOKPOLISA – Sistem Monitoring Kebocoran Pipa Landfill Gas pada PLTSa Berbasis IoT**
 ![I and My friends]({{site.baseurl}}/assets/img/smokpolisa.png)
-Deskripsi Proyek:
-SMOKPOLISA adalah sistem monitoring berbasis Internet of Things (IoT) yang dirancang untuk mendeteksi kebocoran gas metana dari pipa landfill di Pembangkit Listrik Tenaga Sampah (PLTSa). Sistem ini bertujuan mendukung keamanan lingkungan dan efisiensi pengelolaan gas buangan dengan pendekatan real-time monitoring dan notifikasi otomatis.
-Fitur Utama:
-✅ Implementasi sistem monitoring sensor gas berbasis jaringan nirkabel
-✅ Integrasi antara mikrokontroler dengan berbagai platform IoT untuk pemantauan kondisi sistem secara daring
-✅ Perancangan hardware, mockup fisik, dan prototipe sistem yang dapat diimplementasikan di lingkungan nyata
-Teknologi yang Digunakan:
-Microcontroller: Arduino UNO, ESP8266, ATmega328
-Software & Platform: MQTT, Blynk, Antares, ThingsBoard, ThingSpeak
-Bahasa Pemrograman: C++, HTTPClient, Java
-Hasil & Pencapaian:
-🏆 Juara 3 dalam ajang Lomba Karya Tulis Ilmiah Nasional (LKTIN), sebagai inovasi teknologi berbasis riset untuk pengembangan energi ramah lingkungan dan sistem monitoring berbasis IoT.
+Salah satu proyek yang pernah saya kerjakan adalah SMOKPOLISA (Sistem Monitoring Kebocoran Pipa Landfill Gas pada PLTSa Berbasis Internet of Things). Proyek ini dirancang sebagai solusi untuk mendeteksi kebocoran gas metana dari pipa landfill di Pembangkit Listrik Tenaga Sampah (PLTSa). Sistem ini mengintegrasikan mikrokontroler seperti Arduino, ESP8266, dan ATmega, dengan berbagai platform IoT seperti MQTT, Blynk, Antares, ThingsBoard, dan ThingSpeak untuk melakukan pemantauan secara real-time.
+
+Pengembangan SMOKPOLISA meliputi implementasi sistem monitoring, integrasi antara perangkat keras dengan media pemantauan daring, serta perancangan prototipe dan mockup hardware yang mendekati kondisi implementasi nyata. Sistem ini diprogram menggunakan bahasa C++, Java, serta komunikasi berbasis HTTPClient.
+
+Melalui proyek ini, saya tidak hanya memperdalam pemahaman teknis terkait IoT dan sensor lingkungan, tetapi juga berhasil membawa tim meraih peringkat 3 dalam ajang Lomba Karya Tulis Ilmiah Nasional (LKTIN) sebagai bentuk pengakuan terhadap inovasi dan kebermanfaatan proyek tersebut.
+
 
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
 
