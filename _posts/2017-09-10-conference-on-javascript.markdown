@@ -4,7 +4,7 @@ title: DEVELOPER ENTHUSIAST
 date: 2025-03-01 00:00:00 +030
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: developer.png # Add image post (optional)
-tags: [Js, Conference] # add tag
+tags: [Developer, Flutter , React , Firebase , AppSHeet] # add tag
 ---
 **💡HAPPY SHOP - MOBILE APP (FLUTTER)**
 ![I and My friends]({{site.baseurl}}/assets/img/happyshop.png)
