@@ -29,4 +29,15 @@ Tahapan proyek mencakup implementasi sensor gas dan modul komunikasi, integrasi 
 
 Melalui proyek MOGE, saya memperoleh pengalaman dalam merancang sistem keselamatan berbasis teknologi IoT sekaligus mengasah keterampilan dalam integrasi perangkat pintar yang aplikatif dan solutif di bidang keamanan lingkungan.
 
+**💡  MOGE (Monitoring Gas Environment) Berbasis IoT**
+![I and My friends]({{site.baseurl}}/assets/img/mamdani.png)
+
+Proyek skripsi yang saya kerjakan berjudul "Rancang Bangun Alat Pendeteksi Golongan Air Berdasarkan Kegunaannya dengan Metode Fuzzy Logic Mamdani." Proyek ini bertujuan untuk mengklasifikasikan kualitas air berdasarkan tingkat kelayakan penggunaannya, seperti air layak minum, air domestik, atau air tercemar. Sistem ini dikembangkan dengan pendekatan Internet of Things (IoT) dan menggunakan logika fuzzy Mamdani untuk mengolah data sensor secara cerdas dan fleksibel.
+
+Dalam implementasinya, sistem menggunakan mikrokontroler seperti Arduino, ESP8266, dan ATmega yang terhubung dengan berbagai platform monitoring seperti MQTT, Blynk, Antares, ThingsBoard, dan ThingSpeak. Sistem mampu memantau kualitas air secara real-time dan menampilkan hasil klasifikasinya dalam bentuk grafik digital melalui dashboard yang dapat diakses secara daring.
+
+Tahapan pengembangan meliputi implementasi sistem monitoring, integrasi perangkat keras dengan platform pemantauan, desain prototipe alat, serta visualisasi data kualitas air menggunakan metode fuzzy. Bahasa pemrograman yang digunakan antara lain C++, Python, dan HTTPClient.
+
+Proyek ini menjadi bagian penting dalam pencapaian akademik saya dan berhasil menghantarkan saya lulus sebagai Sarjana Teknik Informatika
+
 
