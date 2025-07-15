@@ -10,8 +10,20 @@ Saya adalah seorang IT Research Enthusiast, dengan minat khusus dalam pengembang
 
 Minat ini semakin berkembang ketika saya melanjutkan studi di jurusan Informatika. Selama kuliah, saya aktif dalam organisasi mahasiswa yang fokus pada riset, inovasi, robotika, dan kewirausahaan teknologi. Keterlibatan ini memperluas pengetahuan saya terhadap mikrokontroler seperti Arduino, ESP8266, dan berbagai modul sensor, sekaligus mengasah kemampuan saya dalam merancang sistem IoT yang terintegrasi.
 
-## Plaid ramps kitsch woke pork belly
-90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever single-origin coffee gluten-free austin everyday carry cliche cred. Plaid ramps kitsch woke pork belly organic. Trust fund whatever coloring book kombucha brooklyn. Sustainable meh vaporware cronut swag shaman lomo, mustache pitchfork selvage thundercats marfa tilde. Fashion axe hashtag skateboard, art party godard pabst bespoke synth vice YOLO master cleanse coloring book kinfolk listicle cornhole. Try-hard mixtape umami fanny pack man bun gastropub franzen tbh. Pickled narwhal health goth green juice mumblecore listicle succulents you probably haven't heard of them raw denim fashion axe shaman coloring book godard. Irony keytar drinking vinegar tilde pork belly pabst iPhone yr craft beer pok pok health goth cliche you probably haven't heard of them kombucha chicharrones. Direct trade hella roof party chia. Coloring book small batch marfa master cleanse meh kickstarter austin kale chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
+💡 SMOKPOLISA – Sistem Monitoring Kebocoran Pipa Landfill Gas pada PLTSa Berbasis IoT
+![I and My friends]({{site.baseurl}}/assets/img/smokpolisa.png)
+Deskripsi Proyek:
+SMOKPOLISA adalah sistem monitoring berbasis Internet of Things (IoT) yang dirancang untuk mendeteksi kebocoran gas metana dari pipa landfill di Pembangkit Listrik Tenaga Sampah (PLTSa). Sistem ini bertujuan mendukung keamanan lingkungan dan efisiensi pengelolaan gas buangan dengan pendekatan real-time monitoring dan notifikasi otomatis.
+Fitur Utama:
+✅ Implementasi sistem monitoring sensor gas berbasis jaringan nirkabel
+✅ Integrasi antara mikrokontroler dengan berbagai platform IoT untuk pemantauan kondisi sistem secara daring
+✅ Perancangan hardware, mockup fisik, dan prototipe sistem yang dapat diimplementasikan di lingkungan nyata
+Teknologi yang Digunakan:
+Microcontroller: Arduino UNO, ESP8266, ATmega328
+Software & Platform: MQTT, Blynk, Antares, ThingsBoard, ThingSpeak
+Bahasa Pemrograman: C++, HTTPClient, Java
+Hasil & Pencapaian:
+🏆 Juara 3 dalam ajang Lomba Karya Tulis Ilmiah Nasional (LKTIN), sebagai inovasi teknologi berbasis riset untuk pengembangan energi ramah lingkungan dan sistem monitoring berbasis IoT.
 
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
 
